@@ -14,7 +14,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
     - name: Setup AWS Copilot
-      uses: lionizeai/setup-aws-copilot@v1
+      uses: lionizeai/setup-aws-copilot@v2
 ```
 
 #### inputs
