@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/softprops/setup-aws-copilot.git"
+    "url": "git+https://github.com/lionizeai/setup-aws-copilot.git"
   },
   "keywords": [
     "actions"
   ],
-  "author": "softprops",
+  "author": "softprops / lionizeai",
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.2.6",
